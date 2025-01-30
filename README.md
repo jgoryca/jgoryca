@@ -1,4 +1,6 @@
-## Hi there 👋 I'm Jaroslaw Goryca, a passionate Web Developer based in Poland.
+## Hi there 👋 I'm Jarek. 
+
+A passionate Web Developer based in Poland.
 
 <!--
 **jgoryca/jgoryca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
