@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Jarek. 
 
 A passionate Web Developer based in Poland.
+I am a computer science engineer strongly focused on Web Development.
 
 <!--
 **jgoryca/jgoryca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
